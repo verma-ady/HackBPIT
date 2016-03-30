@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_wardrobe"
+
+            android:title="Wardrobe" />
+        <item android:id="@+id/nav_watch_friends"
+
+            android:title="Watch Friends" />
+        <item android:id="@+id/nav_dress_selector"
+
+            android:title="Dress Selector" />
+        <item android:id="@+id/nav_favourite"
+
+            android:title="Favourite" />
+        <item android:id="@+id/nav_expert_advice"
+            android:title="Expert Advice" />
+
+    </group>
+
+
+    <!--
+        <item
+        to add icon -
+        android:icon="@drawable/ic_inbox_black"
+        android:title="@string/inbox_string" />
+    -->
+
+
+
+</menu>
